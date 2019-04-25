@@ -1,0 +1,102 @@
+/* ********** Custom Properties ********** */
+:root {
+    --first-color: white;
+    --first-alpha-color: black;
+    --second-color: rgb(20, 25, 45);
+    --second-alpha-color: rgba(20, 25, 45, .75);
+    --link-color: rgb(80, 158, 227);
+    --bg-color: rgb(245, 245, 245);
+    --bg-alpha-color: rgba(245, 245, 245, .75);
+  
+    --navbar-height: 40px;
+  }
+  
+  /* ********** Reset Styles ********** */
+  body {
+    font-family: 'Raleway', sans-serif;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    background-color: black;
+  }
+
+  a {
+    color: var(--link-color);
+    transition: all .3s ease-out;
+  }
+ 
+  a:hover {
+    color: var(--first-color);
+  }
+  
+  /* ********** Bootstrap Styles ********** */
+  .bg-dark {
+    background-color: var(--second-color) !important;
+  }
+  
+  .navbar-brand img {
+    width: auto;
+    height: var(--navbar-height);
+  }
+  
+   
+  navbar{
+    background-color: rgba(0,0,0,0) ;
+  }
+
+  .navbar-toggler {
+    border: 0;
+  }
+  
+  .navbar-toggler:focus {
+    outline: 0;
+  }
+  
+  .navbar-dark .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(255, 255, 255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+    transition: all .3s ease-out;
+  }
+  
+  .navbar-dark .navbar-toggler-icon:hover {
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgb(20, 25, 45)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  }
+  
+  .nav-item:hover {
+    background-color: var(--first-alpha-color);
+    transition: all .3s ease-out;
+  }
+  
+  .nav-link {
+    margin-left: .5rem;
+    color: var(--first-color) !important;
+    font-size: 1.15rem;
+    font-weight: bold;
+  }
+  
+  .nav-link:hover {
+    color: var(--white) !important;
+  }
+  
+  .nav-item:hover .nav-link.dropdown-toggle {
+    color: var(--white) !important;
+  }
+  
+  .dropdown-item {
+    color: var(--first-alpha-color);
+    font-weight: bold;
+  }
+  
+  .dropdown-item:hover {
+    color: var(--first-alpha-color);
+  }  
+
+
+  .bg-red {
+    background-color: rgba(0, 0, 0, 0.39);
+  }
+
+   .carousel-item{
+  background-color: rgba(0, 0, 0, 0.39);
+}
+
+
+  
