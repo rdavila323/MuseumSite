@@ -1,0 +1,107 @@
+{ 
+ "museumsCards": [
+     {
+        "img": "img/lacma-museum-urban-lights.jpeg",
+        "name": "LACMA",
+        "openingHours": "Monday-Friday; 9 am - 6pm",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "section": "Modern Art",
+        "modal": "museum-1",
+        "link": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13220.870938578413!2d-118.3592293!3d34.0639323!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9b191d3aac3e37!2sLos+Angeles+County+Museum+of+Art!5e0!3m2!1sen!2smx!4v1554150474135!5m2!1sen!2smx"
+     },
+     {
+        "img": "img/Museo-Nacional-de-Antropología-México-760x500.jpg",
+        "name": "Museo de Atropologia",
+        "openingHours": "Monday-Friday; 9 am - 6pm",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "section": "Anthropology",
+        "modal": "museum-2",
+        "link": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15050.74077681057!2d-99.1862786!3d19.4260032!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x84231ae36f6ec524!2sMuseo+Nacional+de+Antropolog%C3%ADa!5e0!3m2!1sen!2smx!4v1554231265334!5m2!1sen!2smx"
+     },
+     {
+        "img": "img/download (2).jpeg",
+        "name": "The Broad",
+        "openingHours": "Monday-Friday; 9 am - 6pm",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "section": "Modern Art",
+        "modal": "museum-3",
+        "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.591987523655!2d-118.25251904965366!3d34.05433588051024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c64d122ca65d%3A0x98f1041528d11ebf!2sThe+Broad!5e0!3m2!1sen!2smx!4v1554150947033!5m2!1sen!2smx" 
+     },
+     {
+        "img": "img/download (1).jpeg",
+        "name": "Munal",
+        "openingHours": "Monday-Friday; 9 am - 6pm",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "section": "Classical",
+        "modal": "museum-4",
+        "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.4480849031675!2d-99.14165975002429!3d19.436238486817885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d200248453f8d1%3A0x5e67451bc487b600!2sMuseo+Nacional+De+Arte+(MUNAL)!5e0!3m2!1sen!2smx!4v1554151382377!5m2!1sen!2smx"
+     },
+     {
+        "img": "img/Prado.jpeg",
+        "name": "Museo de Prado",
+        "openingHours": "Monday-Friday; 9 am - 6pm",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "section": "Classical",
+        "modal": "museum-5",
+        "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3037.7774020823963!2d-3.6943157852186177!3d40.41378177936548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd42289d66d8a2ed%3A0x1094f07d93ad885a!2sMuseo+Nacional+del+Prado!5e0!3m2!1sen!2smx!4v1554250559468!5m2!1sen!2smx"
+     },
+     {
+        "img": "img/orsay.jpeg",
+        "name": "Museo de Orsay",
+        "openingHours": "Monday-Friday; 9 am - 6pm",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "section": "Classical",
+        "modal": "museum-6",
+        "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.9081745797307!2d2.3243727151435034!3d48.85996137928762!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e2bb630941b%3A0xd071bd8cb14423d8!2sMus%C3%A9e+d&#39;Orsay!5e0!3m2!1sen!2smx!4v1554250643172!5m2!1sen!2smx" 
+     },
+     {
+        "img": "img/Louvre.jpeg",
+        "name": "Louvre",
+        "openingHours": "Monday-Friday; 9 am - 6pm",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "section": "Classical/ Art",
+        "modal": "museum-7",
+        "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.8741023651405!2d2.3354553151435558!3d48.86061107928768!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671d877937b0f%3A0xb975fcfa192f84d4!2sLouvre+Museum!5e0!3m2!1sen!2smx!4v1554250688097!5m2!1sen!2smx"
+     }
+     ,
+     {
+        "img": "img/The Getty.jpeg",
+        "name": "The Getty",
+        "openingHours": "Monday-Friday; 9 am - 6pm",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "section": "Classical",
+        "modal": "museum-8",
+        "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3304.6675416323424!2d-118.4762840854528!3d34.07803578059896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bcd74227366f%3A0xda784a5a15aaaa25!2sThe+Getty!5e0!3m2!1sen!2smx!4v1554250741977!5m2!1sen!2smx" 
+     }
+     ,
+     {
+        "img": "img/The Met.jpg",
+        "name": "The MET",
+        "openingHours": "Monday-Friday; 9 am - 6pm",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "section": "Modern Art",
+        "modal": "trabajo-9",
+        "link":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021.208208222046!2d-73.96543268520412!3d40.7794365793246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25896f660c26f%3A0x3b2fa4f4b6c6a1fa!2sThe+Metropolitan+Museum+of+Art!5e0!3m2!1sen!2smx!4v1554250795893!5m2!1sen!2smx" 
+     }
+    ],
+    "communicationCards": [
+        {
+           "title":"Event in Bellas Artes",
+           "message":"lorems sfkjsfkj asfn afnaskfnask nknfskn",
+           "communi":"img/Art-workshop.jpg",
+           "communi-name":"first"
+        },
+        {
+            "title":"Event in INAH",
+            "message":"lorems sfkjsfkj asfn afnaskfnask nknfskn",
+            "communi":"/img/download.jpeg",
+            "communi-name":"second"
+         },
+         {
+            "title":"Event in MUAC",
+            "message":"lorems sfkjsfkj asfn afnaskfnask nknfskn",
+            "communi":"/img/talleres-ideaz.jpg",
+            "communi-name":"third"
+        }
+    ]
+}
